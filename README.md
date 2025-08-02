@@ -2,7 +2,7 @@
 A small Project from free code camp with my personal touch focuses on iframes.
 
 # Hosted thorugh netlify(view online)
-Link:[Anime Blog]()
+-Link: [Anime Blog]()
 
 # 🎥 My Personal Anime Recommendation Blog
 
@@ -38,10 +38,15 @@ You can view the project by opening `index.html` in your browser.
 
 ## 📁 File Structure
 📁 AnimeRecommendationBlog/
+
 ├── index.html # Main webpage
+
 ├── Resources/
+
 │ └── images/
+
 │ └── bg.webp # Background image
+
 ---
 
 ## 🚀 How to Run Locally
