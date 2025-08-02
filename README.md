@@ -2,7 +2,7 @@
 A small Project from free code camp with my personal touch focuses on iframes.
 
 # Hosted thorugh netlify(view online)
--Link: [Anime Blog]()
+-Link: [Anime Blog](https://denzysanimeblog.netlify.app/)
 
 # 🎥 My Personal Anime Recommendation Blog
 
